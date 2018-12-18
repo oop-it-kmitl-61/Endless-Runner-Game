@@ -1,5 +1,7 @@
 # Endless-Runner-Game
-OOP running game project by 59070001 59070018 59070102
+OOP running game project by 59070001 นายกชสม คำวังเงี้ยว 59070018 นายกิตติศักดิ์ ไพรสุทธิรัตน 59070102 นายปิยะวัฒน์ ช่วงกรุด
+
+มี OOP Project (ส่วนของ source code), endlessrunnergame.jar (ตัวเกมโหลดแล้วrunได้เลย), story board อธิบายการทำงานพื้นฐานของเกม
 
 โค้ดหลักของเกมจะอยู่ใน ไฟล์ OOP project โดยจะแบ่งเป็น 2 ส่วนคือส่วน desktop และ core
 
